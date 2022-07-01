@@ -6,7 +6,7 @@ namespace ConsoleApp17
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("abc");
+            Console.WriteLine(" a b c");
         }
     }
 }
